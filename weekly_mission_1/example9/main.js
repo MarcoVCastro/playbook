@@ -16,4 +16,3 @@ charmander.sayMessage("Heey!")
 
 squirtle.sayHello()
 squirtle.sayMessage("Heey!")
-
