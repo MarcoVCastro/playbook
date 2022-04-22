@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "esm-syntax",
   "version": "1.0.0",
@@ -10,4 +11,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+{
+  "name": "esm-syntax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 7be6057c427af985918c92a96ee8f0d2fedc5384
 }
